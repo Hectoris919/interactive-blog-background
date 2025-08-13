@@ -107,7 +107,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Arm.L"
     },
     {
       "name": "rb_Arm.R",
@@ -143,7 +143,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Arm.R"
     },
     {
       "name": "rb_Foot.L",
@@ -179,7 +179,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Foot.L"
     },
     {
       "name": "rb_Foot.R",
@@ -215,7 +215,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Foot.R"
     },
     {
       "name": "rb_Forearm.L",
@@ -323,7 +323,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Hand.L"
     },
     {
       "name": "rb_Hand.R",
@@ -359,7 +359,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Hand.R"
     },
     {
       "name": "rb_Head",
@@ -1439,7 +1439,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Thigh.L"
     },
     {
       "name": "rb_Thigh.R",
@@ -1475,7 +1475,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Thigh.R"
     },
     {
       "name": "rb_Thumb.1.L",
