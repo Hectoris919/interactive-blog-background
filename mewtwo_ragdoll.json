@@ -503,7 +503,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_MiddleFinger.1.L"
     },
     {
       "name": "rb_MiddleFinger.1.R",
@@ -539,10 +539,10 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_MiddleFinger.1.R"
     },
     {
-      "name": "rb_MiddleFinger.2.L.001",
+      "name": "rb_MiddleFinger.2.L",
       "type": "ACTIVE",
       "mass": 2.3921568393707275,
       "shape": "CONVEX_HULL",
@@ -575,7 +575,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_MiddleFinger.2.L"
     },
     {
       "name": "rb_MiddleFinger.2.R",
@@ -611,7 +611,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_MiddleFinger.2.R"
     },
     {
       "name": "rb_Neck",
@@ -683,7 +683,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Pinkie.1.L"
     },
     {
       "name": "rb_Pinkie.1.R",
@@ -719,7 +719,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Pinkie.1.R"
     },
     {
       "name": "rb_Pinkie.2.L",
@@ -755,7 +755,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Pinkie.2.L"
     },
     {
       "name": "rb_Pinkie.2.R",
@@ -791,7 +791,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Pinkie.2.R"
     },
     {
       "name": "rb_SecondNeck.1",
@@ -827,7 +827,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_SecondNeck.1"
     },
     {
       "name": "rb_SecondNeck.2",
@@ -863,7 +863,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_SecondNeck.2"
     },
     {
       "name": "rb_SecondNeck.3",
@@ -899,7 +899,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_SecondNeck.3"
     },
     {
       "name": "rb_SecondNeck.4",
@@ -935,7 +935,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_SecondNeck.4"
     },
     {
       "name": "rb_Shoulder.L",
@@ -1511,7 +1511,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Thumb.1.L"
     },
     {
       "name": "rb_Thumb.1.R",
@@ -1547,7 +1547,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Thumb.1.R"
     },
     {
       "name": "rb_Thumb.2.L",
@@ -1583,7 +1583,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Thumb.2.L"
     },
     {
       "name": "rb_Thumb.2.R",
@@ -1619,7 +1619,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Thumb.2.R"
     },
     {
       "name": "rb_Toe1.L",
@@ -1655,7 +1655,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Toe1.L"
     },
     {
       "name": "rb_Toe1.R",
@@ -1691,7 +1691,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Toe1.R"
     },
     {
       "name": "rb_Toe2.L",
@@ -1727,7 +1727,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Toe2.L"
     },
     {
       "name": "rb_Toe2.R",
@@ -1763,7 +1763,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Toe2.R"
     },
     {
       "name": "rb_ToeBase.L",
@@ -1799,7 +1799,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_ToeBase.L"
     },
     {
       "name": "rb_ToeBase.R",
@@ -1835,7 +1835,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_ToeBase.R"
     }
   ],
   "constraints": [
@@ -6312,7 +6312,7 @@
       "name": "Constraint.041",
       "type": "GENERIC_SPRING",
       "object1": "rb_MiddleFinger.1.L",
-      "object2": "rb_MiddleFinger.2.L.001",
+      "object2": "rb_MiddleFinger.2.L",
       "disableCollisions": true,
       "breakingThreshold": 0.0,
       "solverIterations": null,
