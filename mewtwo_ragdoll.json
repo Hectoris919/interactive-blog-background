@@ -971,7 +971,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Shoulder.L"
     },
     {
       "name": "rb_Shoulder.R",
@@ -1007,7 +1007,7 @@
           1.0
         ]
       },
-      "bone": null
+      "bone": "rb_Shoulder.R"
     },
     {
       "name": "rb_Spine1",
